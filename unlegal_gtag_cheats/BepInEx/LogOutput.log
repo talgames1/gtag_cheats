@@ -1,0 +1,47 @@
+[Message:   BepInEx] BepInEx 5.4.23.2 - Gorilla Tag (30/10/2024 19:24:54)
+[Info   :   BepInEx] Running under Unity v2022.3.2.14108471
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.2]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 7 plugins to load
+[Warning:   BepInEx] Skipping [Utilla 1.6.14] because a newer version exists (Utilla 1.6.14)
+[Info   :   BepInEx] Loading [Utilla 1.6.14]
+[Error  :   BepInEx] Could not load [Iron Monke 1.0.3] because it has missing dependencies: com.buzzbzzzbzzbzzzthe18th.gorillatag.HoneyLib (v1.0.9 or newer)
+[Info   :   BepInEx] Loading [Grate 1.5.4]
+[Info   :   BepInEx] Loading [YizziCamModV2 1.0.8]
+[Info   :   BepInEx] Loading [Bepinject 1.0.1]
+[Info   :   BepInEx] Loading [Super Monke 1.0.0]
+[Info   :   Console] super enmnable
+[Message:   BepInEx] Chainloader startup complete
+[Info   :   Console] super monke has awoken!! watch out!! (it's very scary)
+[Info   :     Grate] (Plugin.OnGameInitialized()) Platform:  Steam
+[Info   :    Utilla] Current Game Mode is set at MODDED_CASUAL.
+[Info   :    Utilla] Highlighted index is set at 4
+[Info   :   Console] joined modded room
+[Warning:     Grate] (NetworkPropertyHandler.OnPlayerEnteredRoom()) Object reference not set to an instance of an object   at Grate.Modules.Multiplayer.Boxing.GiveGlovesTo (VRRig rig) [0x0000e] in <5d6d8995a19a472497876df6771f86a5>:0 
+  at Grate.Modules.Multiplayer.Boxing.OnPlayerJoined (NetPlayer player) [0x00008] in <5d6d8995a19a472497876df6771f86a5>:0 
+  at Grate.Networking.NetworkPropertyHandler.OnPlayerEnteredRoom (NetPlayer newPlayer) [0x0000c] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (Zipline.MakeZipline()) Object reference not set to an instance of an object   at Grate.Modules.Movement.Zipline.MakeZipline () [0x00034] in <5d6d8995a19a472497876df6771f86a5>:0 
+[Warning:     Grate] (NetworkPropertyHandler.OnPlayerEnteredRoom()) Object reference not set to an instance of an object   at Grate.Modules.Multiplayer.Boxing.GiveGlovesTo (VRRig rig) [0x0000e] in <5d6d8995a19a472497876df6771f86a5>:0 
+  at Grate.Modules.Multiplayer.Boxing.OnPlayerJoined (NetPlayer player) [0x00008] in <5d6d8995a19a472497876df6771f86a5>:0 
+  at Grate.Networking.NetworkPropertyHandler.OnPlayerEnteredRoom (NetPlayer newPlayer) [0x0000c] in <5d6d8995a19a472497876df6771f86a5>:0 
